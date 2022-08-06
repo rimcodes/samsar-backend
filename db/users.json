@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "620b4df59a476f86132121da"
+  },
+  "name": "Haden",
+  "email": "med4en@gmail.com",
+  "passwordHash": "$2a$10$km5GjG4RxfYXxrwN9IZjUuGQN6/h2InPPuw0COrv1NWY92EUadWXO",
+  "phone": "47696052",
+  "isAdmin": true,
+  "city": "",
+  "__v": 0
+}]
